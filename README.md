@@ -1,7 +1,7 @@
 # Android Project Templates
 
-This is are Android project templates, created with Android Studio.
-Each template leaves in its own git branch of this git repository.
+These are Android project templates, created with Android Studio.
+Each template lives in its own git branch.
 
 The following templates are available:
 
